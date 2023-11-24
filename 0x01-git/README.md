@@ -49,7 +49,7 @@ Feel free to review the assignments, provide feedback, or reach out if you have 
 Contact
 If you have any questions or would like to connect, feel free to reach out to me:
 
-Name: Akinyeke Micheal
-Email: akinyekemicheal11@gmail.com
-GitHub: akinyeke-micheal
-Happy coding!
+####Name: Akinyeke Micheal
+###Email: akinyekemicheal11@gmail.com
+##GitHub: akinyeke-micheal
+#Happy coding!
